@@ -1,4 +1,4 @@
-﻿[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/marryjone3/vlessheroku.git)
+﻿[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/marryjone3/vless.git)
 
 ```js
 addEventListener(
