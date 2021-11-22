@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/ marryjone3 /vlessheroku",
-  "repository": "https://github.com/ marryjone3 /vlessheroku",
+  "website": "https://github.com/marryjone3/vless",
+  "repository": "https://github.com/marryjone3/vless",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
